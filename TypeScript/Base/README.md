@@ -7,3 +7,5 @@
 [任意屬性](https://github.com/eclairsameal/JavaScriptTypeScriptExercises/blob/main/TypeScript/Base/interface_ex2.ts)
 
 [唯讀屬性](https://github.com/eclairsameal/JavaScriptTypeScriptExercises/blob/main/TypeScript/Base/nterface_ex3.ts)
+
+[用介面表示陣列](https://github.com/eclairsameal/JavaScriptTypeScriptExercises/blob/main/TypeScript/Base/interface_ex4.ts)
